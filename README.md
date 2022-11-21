@@ -22,7 +22,7 @@
 <a href="https://twitter.com/abhilashmaurya8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhilashmaurya8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhilash-maurya-365a941b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhilash-maurya-365a941b8/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_abhilash_maurya_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_abhilash_maurya_/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/abhilash912?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhilash912?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Abhilash912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhilash912?hr_r=1" height="30" width="40" /></a>
 </p>
 
 
