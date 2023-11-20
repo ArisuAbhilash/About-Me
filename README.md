@@ -1,5 +1,5 @@
 [![Web-development-1.jpg](https://i.postimg.cc/mr1dw9JS/Web-development-1.jpg)](https://postimg.cc/KKFrc1ZK)
-<h1 align="center">Hi 👋, I'm Abhilash Maurya</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Lal </h1>
 <h3 align="center">A passionate Web Development from India</h3>
 
 
