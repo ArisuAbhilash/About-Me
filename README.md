@@ -1,37 +1,64 @@
-[![Web-development-1.jpg](https://i.postimg.cc/mr1dw9JS/Web-development-1.jpg)](https://postimg.cc/KKFrc1ZK)
-<h1 align="center">Hi 👋, I'm Abhilash Maurya </h1>
-<h3 align="center">A passionate Web Development from India</h3>
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArisuAbhilash.ArisuAbhilash&left_color=navy"  />
+</div>
 
+###
 
-<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/0295MrvH/AA.gif">
+<h1 align="center">👋 Hi, I'm Abhilash Maurya</h1>
 
-<h3>About me :</h3>
-<p style="text-align: center;">I am Abhilash Maurya from India. Trying to learn💻 Coading to achieve my goal. 👇Contact me If you need a Beginner.</p>
+###
 
+<h3 align="left">A Passionate coder from India. I'm currently exploring Full-Stack Development and Cloud technologies. I enjoy building efficient and scalable web applications using Python, SQL, HTML/CSS, and more.</h3>
 
-- 🌱 I’m currently learning **Java, HTML**
+###
 
-- 💬 Ask me about **Web / Basic Python and Java**
+<p align="left">- 🔭 I’m working on Projects that are on python<br>- 📚 I'm currently Student of Bachelor of Technology (CSE -AI)<br>- ⚡ In my free time I  love to play PC  Games.</p>
 
-- 📫 How to reach me **mauryaabhilash912@gmail.com**
+###
 
-- ⚡ Fun fact **😀Elephants can’t jump**
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhilash-maurya-365a941b8/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ArisuAbhilash" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
 
-<h3 align="left">color Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhilashmaurya8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhilashmaurya8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhilash-maurya-365a941b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhilash-maurya-365a941b8/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_abhilash_maurya_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_abhilash_maurya_/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Abhilash912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhilash912?hr_r=1" height="30" width="40" /></a>
-</p>
+###
 
+<h3 align="left">🛠 Language and tools</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-</p><p><img align="right" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=snoopyabhilash&" alt="snoopyabhilash" /></p>
-<p>&nbsp;<img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=snoopyabhilash&show_icons=true&locale=en" alt="snoopyabhilash" />
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snoopyabhilash" alt="snoopyabhilash" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snoopyabhilash&label=Profile%20views&color=0e75b6&style=flat" alt="snoopyabhilash" /> </p>
+###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArisuAbhilash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false&order=2" height="151" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArisuAbhilash&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=6&order=3" height="152" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArisuAbhilash&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false&order=1" height="198" alt="stats graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ArisuAbhilash/ArisuAbhilash/output/snake.svg" alt="Snake animation" />
+
+###
