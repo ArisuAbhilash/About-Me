@@ -59,6 +59,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ArisuAbhilash/ArisuAbhilash/output/snake.svg" alt="Snake animation" />
 
 ###
